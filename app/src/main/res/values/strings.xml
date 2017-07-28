@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Start Baking</string>
+    <string name="appwidget_text">RECIPE INGREDIENTS WILL APPEAR HERE AFTER LAUNCHING &quot;Start Baking&quot;</string>
+</resources>
